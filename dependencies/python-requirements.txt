@@ -3,3 +3,4 @@ matplotlib
 httplib2
 requests
 seaborn
+scipy
