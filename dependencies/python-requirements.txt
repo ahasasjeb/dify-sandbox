@@ -2,3 +2,4 @@ numpy
 matplotlib
 httplib2
 requests
+seaborn
