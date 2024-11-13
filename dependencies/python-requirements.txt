@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+seaborn
+statsmodels
+tensorflow
+pytorch
+plotly
+bokeh
+sympy
+networkx
